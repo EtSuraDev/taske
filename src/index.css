@@ -1,7 +1,10 @@
 @import "tailwindcss";
+@import "tailwindcss";
+@plugin "daisyui";
+
 
 .top-contect {
-  background-image: url('./assets/background.png');
+  background-image: url('./component/assets/background.png');
   background-size: cover; /* Ensures the image covers the whole screen */
   background-position: center; /* Centers the image */
   background-repeat: no-repeat; /* Prevents repetition */
