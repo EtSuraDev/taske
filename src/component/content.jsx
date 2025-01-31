@@ -12,7 +12,7 @@ export default function content() {
     <div>
       <Top/>
       <Testimonials/>
-      {/* <Tutorials/> */}
+      <Tutorials/>
       <FQA/>
     </div>
   )

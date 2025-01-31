@@ -9,7 +9,7 @@ export default function top() {
   return (
     <div className=' top-contect w-full h-fit flex flex-col items-center ' >
         <Header/>
-        <h1 className=' text-4xl custom:text-5xl md:text-6xl md:font-bold font-extrabold text-white mt-[80px] md:mt-[140px] lg:mt-[180px] mb-[10px] '>
+        <h1 className=' text-4xl lg:text-[100px] custom:text-5xl md:text-6xl md:font-bold font-extrabold text-white mt-[80px] md:mt-[140px] lg:mt-[180px] mb-[10px] '>
             Get schooled
         </h1>
         <div className=' text-[12px] text-white flex justify-between gap-x-[50px] mb-[24px] '>
@@ -23,7 +23,7 @@ export default function top() {
                 LAUGH
             </p>
         </div>
-        <button className=' border-[#C271FF] py-[8px] px-[15px] rounded-full bg-[#C271FF] text-white text-[14px] mb-[30px] md:mb-[110px] lg:mb-[170px] '  >
+        <button className=' lg:mt-[30px] cursor-pointer border-[#C271FF] py-[8px] px-[15px] rounded-full bg-[#C271FF] text-white text-[14px] mb-[30px] md:mb-[110px] lg:mb-[170px] '  >
             REGISTER FOR FREE
         </button>
 
