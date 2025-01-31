@@ -2,9 +2,8 @@ import React from 'react'
 import img from "../assets/Bitmap (3).png"
 import img_ from "../assets/Bitmap (2).png"
 import img__ from "../assets/Bitmap (6).png"
-import img___ from "../assets/Bitmap.png"
 import profile from "../assets/1.png"
-import start from "./star_3.svg"
+import start from "../assets/Star_3.svg"
 import play from "../assets/Triangle.svg"
 
 
